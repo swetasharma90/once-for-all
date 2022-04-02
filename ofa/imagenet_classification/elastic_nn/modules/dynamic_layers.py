@@ -15,7 +15,7 @@ from .dynamic_op import DynamicLinear
 
 __all__ = [
     'adjust_bn_according_to_idx', 'copy_bn',
-    'DynamicMBConvLayer', 'DynamicConvLayer', 'DynamicLinearLayer', 'DynamicResNetBottleneckBlock'
+    'DynamicMBConvLayer', 'DynamicConvLayer', 'DynamicLinearLayer', 'DynamicResNetBottleneckBlock','DynamicInceptionBlock'
 ]
 
 
