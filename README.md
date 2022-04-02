@@ -23,6 +23,8 @@
 
 **[News]** First place in the 3rd [Low-Power Computer Vision Challenge](https://lpcv.ai/competitions/2019), DSP track at ICCV’19 using the Once-for-all Network.
 
+**-----Extended to Inception ------**
+
 ## Train once, specialize for many deployment scenarios
 ![](figures/overview.png)
 
